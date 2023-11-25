@@ -58,7 +58,7 @@ Finally, let's move on to 7 Advanced ReactJs projects.
 
 - <strong> Online JavaScript Compiler </strong> - Although JavaScript can be compiled in the Browser console, creating an interactive JavaScript editor will boost your ReactJs skills. You can create an online JavaScript Compiler using JavaScript and ReactJs that compiles JavaScript in the browser itself. You can add other functionalities as well such as saving the document, syntax check etc.
 
-- <strong> Dynamic Weather App </strong> - In the list of <a href="https://github.com/Saarthak-Slathia/21-ReactJs-Projects/blob/main/README.md#intermediate-level-projects">Intermediate level projects</a>, there was a project known as Weather app. This project is also very similar to the previous weather app, just the difference being that it will be more advanced and there will be more features such as <b>city search</b>, <b>theme switch </b> etc.
+- <strong> Dynamic Weather App </strong> - In the list of <a>Intermediate level projects</a>, there was a project known as Weather app. This project is also very similar to the previous weather app, just the difference being that it will be more advanced and there will be more features such as <b>city search</b>, <b>theme switch </b> etc.
 
 - <strong> E-commerce website clone with authentication </strong> - This project, similar to the previous e-commerce project, will be an e-commerce shopping website clone <b>with authentication</b>. You can use <a href="https://firebase.google.com" target="_blank">firebase</a> provided by Google for authentication. This project can be a milestone in your ReactJs learning journey which will upgrade your ReactJs skills to another level. You can also add this project to your resume/portfolio. 
 
@@ -72,14 +72,6 @@ Finally, let's move on to 7 Advanced ReactJs projects.
 
 ## Thank You !!!
 
-Made with ❤ by ![@MindlessFeats](https://github.com/MindlessFeats)
-
-**Become a sponser to get access to my 30 JavaScript project ideas, ranging from beginner level all the way upto advance level**
-👇🏻
-
-[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/MindlessFeats)
-
----
 
 If you find this repository helpful, please give it a ⭐🌟
 
